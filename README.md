@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Itthidej (@ObiOn777)
 - 👀 I’m interested in CyberSecurity
 - 🌱 I’m currently learning Linux Fundamentals, Network Exploitation Basics, Web Hacking Fundamentals (Web Fundamentals, Burpsuite, OWASP TOP 10)
-- 💞️ Have the basics of programming in the C, Python, golang, flutter
+- 💞️ Have the basics of programming in the C, Python, Java, and currently learning golang, flutter
 - Facebook: https://www.facebook.com/Boeing.Aramsri
 
 <!---
